@@ -22,8 +22,4 @@ A simple Java-based application that manages hotel reservations using a MySQL da
 - MySQL JDBC Driver (e.g., `mysql-connector-j-8.x.x.jar`) added to the project
 - IntelliJ IDEA (or any Java IDE) for running the project
 
-## Database Setup
-1. Create the `hotel_db` database in MySQL:
-   ```sql
-   CREATE DATABASE hotel_db;
-   USE hotel_db;
+
